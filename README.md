@@ -5,8 +5,6 @@ Uma breve descrição do que seu projeto faz e por que ele é útil.
 
 ## 🚀 Instalação
 
-```bash
-npm install
 
 
 🧪 Como usar
@@ -41,10 +39,11 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 🙋‍♂️ Autor
 MARCELO BARUDI
 
-# Welcome to your Expo app 👋
 
-# portifolio reactnative
 
+
+
+# MARCELO BARUDI
  
 <div align="center">
   <p align="center">
@@ -170,3 +169,4 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
