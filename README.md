@@ -28,14 +28,18 @@ npm start
 - Node.js
 - Express (se aplicável)
 - Outras bibliotecas relevantes
+
 ✅ Funcionalidades
 - [x] Funcionalidade 1
 - [x] Funcionalidade 2
 - [ ] Funcionalidade futura
+
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
 🙋‍♂️ Autor
-Marcelo — [seu perfil ou contato aqui]
+MARCELO BARUDI
 
 # Welcome to your Expo app 👋
 
@@ -50,7 +54,7 @@ Marcelo — [seu perfil ou contato aqui]
 
 
 
-# MARCELO BARUDI
+# 
  
 <div align="center">
   <p align="center">
