@@ -1,7 +1,5 @@
-📝 Passo a passo para criar o arquivo README.md
-- Abra o Bloco de Notas ou outro editor de texto.
-- Copie e cole o conteúdo abaixo:
-# 📦 Nome do Projeto
+
+# 📦 APRENDIZADO NODEJS
 
 Uma breve descrição do que seu projeto faz e por que ele é útil.
 
