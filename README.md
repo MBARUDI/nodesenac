@@ -45,16 +45,6 @@ MARCELO BARUDI
 
 # portifolio reactnative
 
-
-## Descrição
-
-# PROJETO CARROS BRASILEIROS
-
-# Desafio dio
-
-
-
-# 
  
 <div align="center">
   <p align="center">
