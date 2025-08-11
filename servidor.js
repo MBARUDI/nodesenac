@@ -1,10 +1,20 @@
 const http = require('http');
 const fs = require('fs');
+const _ = require('lodash');
 
 const server = http.createServer((req, res) => {
   console.log(req.url, req.method);
 
-  // Definindo o tipo de conteúdo do cabeçalho para HTML
+  // testando lodash
+const numero =  _.random(0, 50);
+console.log(numero);
+
+const saudacao = _.once(() => {
+    console.log('Olá, pessoal!');
+});
+saudacao();
+
+// Definindo o tipo de conteúdo do cabeçalho para HTML
   res.setHeader('Content-Type', 'text/html');
 
 //   // Escrevendo o conteúdo HTML
